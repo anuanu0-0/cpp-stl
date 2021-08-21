@@ -1,0 +1,1 @@
+Container Adapters : Built on top of other containers & they only work as an interface.
